@@ -1,3 +1,3 @@
 DID not upload
 assets/terrinSampleAssets
-Assets/TerrinDemoSceneURP/Terrain/Testxtures + Testures.meta
+Assets/TerrinDemoSceneURP/Terrain/Testxtures/GrassMossA(folder

@@ -1,0 +1,12 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]aptures/
+/[Vv]REnergyLog*/
+/[Mm]emoryCaptures/
+/[Mm]emoryProfiling/
+/[Ll]ogs/
+/[Vv]ideo/
+.DS_Store
